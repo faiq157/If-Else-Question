@@ -2,7 +2,7 @@
 using namespace std;
 int main(){	
 		char ch;
-		cout<<"Enter Charater"<<endl;
+		cout<<"Enter Character"<<endl;
 		cin>>ch;
 		 if(ch>='a' && ch<='z' || ch>='A' && ch<='Z')
 		{
